@@ -1,12 +1,14 @@
+$driveLetter = 'C';
+
 function katas()
 { 
-	d: ; 
-	cd d:\desenvolvimento\github\katas
+	$driveLetter: ; 
+	cd "$driveLetter:\desenvolvimento\github\katas"
 }
 
 function gh()
 { 
-	d: ; 
-	cd d:\desenvolvimento\github
+	$driveLetter: ; 
+	cd "$driveLetter:\desenvolvimento\github"
 }
 
