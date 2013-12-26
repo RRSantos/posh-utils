@@ -1,6 +1,6 @@
 #Install instructions #
--------
-###Make sure the execution policy is set to `RemoteSigned` (or `Unrestricted `). ###
+
+####Make sure the execution policy is set to `RemoteSigned` (or `Unrestricted `). ####
 
 To change execution policy, run the command (as administrator):
 
