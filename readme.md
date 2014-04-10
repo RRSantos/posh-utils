@@ -4,7 +4,7 @@
 
 To change execution policy, run the command (as administrator):
 
-  `Set-Execution-Policy RemoteSigned`
+  `Set-ExecutionPolicy RemoteSigned`
 
 Run the command:
 
